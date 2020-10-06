@@ -1,5 +1,5 @@
+ var number = 0
 function takeANumber(){
-  var number = 0
   number++
   return number;
 }
